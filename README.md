@@ -6,4 +6,4 @@ This repository contains my Git and Github practices.
 - Git basics
 - Commits
 - Branches
-- GitHub
+- Data analytics 2026
