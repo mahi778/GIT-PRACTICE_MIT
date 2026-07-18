@@ -7,3 +7,5 @@ This repository contains my Git and Github practices.
 - Commits
 - Branches
 - Data analytics 2026
+
+i'm excited to use git 
